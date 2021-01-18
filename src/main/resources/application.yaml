@@ -1,0 +1,6 @@
+server:
+  port: 9084
+aws:
+  region: us-east-1
+  cognito:
+    clientId: 2dik5i1ik2gkgeipc5657hb9jm
